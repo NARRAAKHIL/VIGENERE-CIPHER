@@ -87,7 +87,7 @@ return 0;
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/29a71d90-b43d-4a56-afef-06016c1f6ccc)
+![Screenshot 2025-05-25 000348](https://github.com/user-attachments/assets/0fdabf5c-d342-4ae1-95be-1c711839661c)
 
 
 
